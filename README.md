@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/AndyLampert/twemoji.png?label=ready&title=Ready)](https://waffle.io/AndyLampert/twemoji)
 # Twemoji
 
 [![Gem Version](http://img.shields.io/gem/v/twemoji.svg)][gem]
